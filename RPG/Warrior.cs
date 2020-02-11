@@ -11,7 +11,7 @@ namespace RPG
         public Warrior(string name, int strength, int intelligence, string weaponType)
             :base  (name, strength, intelligence)
         {
-            WeaponType = weaponType;
+            this.weaponType = weaponType;
         }
 
         public string WeaponType { get => weaponType; set => weaponType = value; }
@@ -19,7 +19,7 @@ namespace RPG
         public override string Play()
         {
             return
-                $"{Name} (intelligence: {Intelligence}, strength: {Strength}) {WeaponType}";
+                base.Play() + $" {WeaponType}";
         }
 
     }

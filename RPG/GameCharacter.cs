@@ -13,9 +13,9 @@ namespace RPG
 
         public GameCharacter(string name, int strength, int intelligence)
         {
-            Name = name;
-            Strength = strength;
-            Intelligence = intelligence;
+            this.name = name;
+            this.strength = strength;
+            this.intelligence = intelligence;
         }
 
         public string Name { get => name; set => name = value; }
@@ -24,7 +24,7 @@ namespace RPG
 
         public virtual string Play()
         {
-            return $"{Name} (intelligence: {Intelligence}, strength: {Strength}";
+            return $"{Name} (int: {Intelligence}, strength: {Strength}";
         }
     }
 }
