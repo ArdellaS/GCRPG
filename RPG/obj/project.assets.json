@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DShelton\\OneDrive - KNEX\\Documents\\GCDevBuild\\RPG\\RPG\\RPG.csproj",
+      "projectUniqueName": "C:\\Users\\DShelton\\OneDrive - Knex\\Documents\\GCDevBuild\\GCRPG\\RPG\\RPG.csproj",
       "projectName": "RPG",
-      "projectPath": "C:\\Users\\DShelton\\OneDrive - KNEX\\Documents\\GCDevBuild\\RPG\\RPG\\RPG.csproj",
+      "projectPath": "C:\\Users\\DShelton\\OneDrive - Knex\\Documents\\GCDevBuild\\GCRPG\\RPG\\RPG.csproj",
       "packagesPath": "C:\\Users\\DShelton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DShelton\\OneDrive - KNEX\\Documents\\GCDevBuild\\RPG\\RPG\\obj\\",
+      "outputPath": "C:\\Users\\DShelton\\OneDrive - Knex\\Documents\\GCDevBuild\\GCRPG\\RPG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

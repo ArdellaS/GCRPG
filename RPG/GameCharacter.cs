@@ -7,14 +7,9 @@ namespace RPG
     class GameCharacter
     {
         private string name;
-
         private int strength;
-
         private int intelligence;
 
-        public string Name { get; set; }
-        public int Strength { get; set; }
-        public int Intelligence { get; set; }
 
         public GameCharacter(string name, int strength, int intelligence)
         {
@@ -22,6 +17,10 @@ namespace RPG
             Strength = strength;
             Intelligence = intelligence;
         }
+
+        public string Name { get => name; set => name = value; }
+        public int Strength { get => strength; set => strength = value; }
+        public int Intelligence { get => intelligence; set => intelligence = value; }
 
         public virtual string Play()
         {

@@ -11,8 +11,7 @@ namespace RPG
             character.Add(new Warrior("Brick the Tank", 7, 3, "Axe"));
             character.Add(new Wizard("Morrigan the swamp witch", 2, 9, 100, 5));
             character.Add(new Warrior("Prince Adam the barbarian", 10,5, "Sword of Power"));
-            
-            character.Add(new Warrior("King Koopa", 6,1,"Claws"));
+            character.Add(new Warrior("King \"Bowser\" Koopa", 6,1,"Claws"));
 
             foreach (GameCharacter person in character)
             {

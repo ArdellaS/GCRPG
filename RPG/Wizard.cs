@@ -8,7 +8,7 @@ namespace RPG
     {
         private int spellNumber;
 
-        public int SpellNumber { get; set; }
+        public int SpellNumber { get => spellNumber; set => spellNumber = value; }
 
         public Wizard(string name, int strength, int intelligence, int magicalEngery, int spellNumber)
             : base (name, strength, intelligence,magicalEngery)

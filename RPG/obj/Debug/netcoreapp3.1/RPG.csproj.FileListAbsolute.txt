@@ -9,3 +9,14 @@ C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\RPG\RPG\obj\Debug\netcore
 C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
 C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
 C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\RPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\GCRPG\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\GCRPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\GCRPG\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\obj\Debug\netcoreapp3.1\RPG.csprojAssemblyReference.cache
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\GCRPG\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
