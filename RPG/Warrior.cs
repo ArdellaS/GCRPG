@@ -19,7 +19,7 @@ namespace RPG
         public override string Play()
         {
             return
-                base.Play() + $" {WeaponType}";
+                base.Play() + $") {WeaponType}";
         }
 
     }

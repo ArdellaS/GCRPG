@@ -19,7 +19,7 @@ namespace RPG
         public override string Play()
         {
             return 
-                base.Play() + $"  magic:  {MagicalEnergy}) {SpellNumber} spells";
+                base.Play() + $" {SpellNumber} spells";
         }
     }
 }

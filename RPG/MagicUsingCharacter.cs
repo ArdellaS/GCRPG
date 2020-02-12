@@ -18,7 +18,7 @@ namespace RPG
         public override string Play()
         {
             return
-            $"{Name} (intelligence: {Intelligence}, strength: {Strength}, magic:  {magicalEnergy}) "; 
+            base.Play() + $", magic:  {magicalEnergy}) "; 
                 
         }
     }
